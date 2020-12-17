@@ -16621,5 +16621,25 @@ section .cercle img {
     margin-bottom: 50px;
   }
 }
+.section2 {
+  background-image: url(../img/book-bg.jpg);
+  background-size: cover;
+}
+.section2 h1 {
+  font-family: "spectral";
+}
+.section2 .reservation {
+  width: 40%;
+}
+.section2 .btn-orange {
+  height: 50px;
+  margin-top: 15px;
+}
+
+@media screen and (max-width: 576px) {
+  .bloc-orange {
+    padding-top: 0px;
+  }
+}
 
 /*# sourceMappingURL=app.css.map */
