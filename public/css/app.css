@@ -16617,6 +16617,9 @@ section .cercle img {
     padding-right: 0px !important;
     padding-left: 0px !important;
   }
+  section button {
+    margin-bottom: 50px;
+  }
 }
 
 /*# sourceMappingURL=app.css.map */
